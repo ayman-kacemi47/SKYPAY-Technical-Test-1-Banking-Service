@@ -49,7 +49,9 @@ You can click it or open detailedClassDiagramme.svg included in the repo to expl
 ### ▶️ Run the JAR
 
 ```bash
-java -jar skypayBankTest1-KACEMI-Ayman.jar ```
+java -jar skypayBankTest1-KACEMI-Ayman.jar
+```
+
 🧪 Seed Users
 Username	     Password  	Notes
 ayman_kacemi	12345678	  Has a Saving + Current Account with history
@@ -63,9 +65,11 @@ skypay	      12345678  	Has a Current Account (for transfers)
 
 
 🏠 Main Menu
+
 ![image](https://github.com/user-attachments/assets/30d42f32-285e-4262-b198-4a6b5925076e)
 
 📝 Sign In + Logged In Menu
+
 ![image](https://github.com/user-attachments/assets/3ffdfd0b-2064-4bed-8a70-d239357e5657)
 
 📄 Print Statement (Operations)
