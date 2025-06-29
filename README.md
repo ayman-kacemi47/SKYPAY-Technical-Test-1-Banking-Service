@@ -49,7 +49,7 @@ You can click it or open detailedClassDiagramme.svg included in the repo to expl
 ### ▶️ Run the JAR
 
 ```bash
-java -jar skypayBankTest1-KACEMI-Ayman.jar
+java -jar skypayBankTest1-KACEMI-Ayman.jar ```
 🧪 Seed Users
 Username	     Password  	Notes
 ayman_kacemi	12345678	  Has a Saving + Current Account with history
