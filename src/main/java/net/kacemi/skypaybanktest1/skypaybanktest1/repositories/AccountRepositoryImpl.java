@@ -30,10 +30,8 @@ public class AccountRepositoryImpl implements AccountRepository {
         long nextNumber = accountNumberCounter.incrementAndGet();
         account.setId((int) nextNumber);
         account.setAccountNumber("ACC-"+nextNumber);
-        System.out.println("accoutn ser Account "+ account);
 
         accountsTableDB.add(account);
-        System.out.println("nouveau table "+ accountsTableDB);
         return account;
     }
 
