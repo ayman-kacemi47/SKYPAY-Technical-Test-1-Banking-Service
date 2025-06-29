@@ -34,7 +34,7 @@ You can click it or open detailedClassDiagramme.svg included in the repo to expl
 - `Maven`
 - `Lombok`
 - Clean Architecture principles
-- UML Design (see `class_diagram.svg`)
+- UML Design (see `detailedClassDiagramme.svg`)
 
 ---
 
